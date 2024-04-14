@@ -111,4 +111,43 @@ h1 {
 .signup button:hover {
   background-color: #003f7f; /* Even darker for hover state */
 }
+/* Responsive styles */
+@media (max-width: 768px) {
+  /* Adjust for tablets */
+  h1 {
+    font-size: 2.5rem; /* Smaller font size for h1 */
+  }
+
+  .description {
+    font-size: 1rem; /* Smaller font size for description */
+    padding: 0 20px; /* Add padding on the sides */
+  }
+
+  .signup {
+    max-width: 100%; /* Full width for smaller screens */
+    padding: 0 20px; /* Add padding on the sides */
+  }
+
+  .signup input,
+  .signup button {
+    width: 100%; /* Full width for input and button */
+    margin-right: 0; /* Remove margin-right for input */
+  }
+
+  .signup button {
+    margin-top: 10px; /* Add space above the button */
+  }
+}
+
+@media (max-width: 480px) {
+  /* Adjust for mobile phones */
+  h1 {
+    font-size: 2rem; /* Even smaller font size for h1 */
+  }
+
+  .description,
+  .signup {
+    padding: 0 10px; /* Less padding for very small screens */
+  }
+}
 </style>
