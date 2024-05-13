@@ -8,7 +8,10 @@ import WelcomePage from "./components/WelcomePage.vue";
   <WelcomePage />
 </template>
 
-<style scoped>
+<style>
+body {
+  background-color: #ebf5fb;
+}
 .logo {
   height: 6em;
   padding: 1.5em;

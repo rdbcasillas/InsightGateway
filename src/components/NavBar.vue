@@ -5,9 +5,9 @@
         <img class="resize-logo" src="/ratdojo2.png" alt="" />
       </a>
     </div>
-    <div class="nav-links">
+    <!-- <div class="nav-links">
       <h4><a href="/resources">Resources</a></h4>
-    </div>
+    </div> -->
   </nav>
 </template>
 
@@ -30,7 +30,9 @@ export default {
   color: #333;
   text-decoration: none;
 }
-
+.logo {
+  height: 2em;
+}
 .nav-links a {
   margin-left: 20px;
   margin-right: 20px;
@@ -43,7 +45,7 @@ export default {
   color: #0056b3;
 }
 .resize-logo {
-  width: 70px;
+  width: 60px;
   height: auto;
 }
 </style>

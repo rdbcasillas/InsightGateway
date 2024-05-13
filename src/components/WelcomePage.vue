@@ -18,8 +18,6 @@
       </div>
     </div>
 
-    <hr />
-
     <div class="row">
       <div class="col-md-6 col-sm-12 offset-md-4">
         <h3 class="vibe-title mb-3">The Vibe</h3>
@@ -150,10 +148,12 @@ export default {
   text-align: justify;
 }
 h3 {
-  color: #333;
+  color: #0056b3;
+  font-family: math;
   display: flex;
   font-size: 1.6rem;
-  margin-bottom: 10px; /* Spacing below the title */
+  font-weight: bolder;
+  margin-bottom: 2px; /* Spacing below the title */
 }
 p {
   color: #555;
@@ -167,9 +167,8 @@ li {
   font-family: "Times New Roman", Times, serif;
 }
 .vibe-title {
-  color: #333;
   font-size: 1.6rem;
-  margin-bottom: 10px; /* Spacing below the title */
+  margin-bottom: 5px; /* Spacing below the title */
 }
 
 .vibe-title-para {
@@ -230,9 +229,11 @@ h1 {
 }
 
 .name {
-  font-weight: bold;
+  font-weight: bolder;
+  font-size: 1.4em;
   color: #0056b3;
   margin-bottom: 30px;
+  font-family: fantasy;
 }
 
 .description {
