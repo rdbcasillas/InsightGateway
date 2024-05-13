@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row">
+    <div class="row title">
       <div class="col-12 text-center mb-4">
         <h1><span class="name">The Third Space</span></h1>
       </div>
@@ -22,7 +22,7 @@
 
     <div class="row">
       <div class="col-md-6 col-sm-12 offset-md-4">
-        <h3 class="vibe-title">The Vibe</h3>
+        <h3 class="vibe-title mb-3">The Vibe</h3>
         <p class="ml-auto vibe-title-para">
           Third Space is where every vibe under the sun spins. It's a container
           where every emotion finds its place. No question is stupid and no
@@ -140,6 +140,9 @@ export default {
 </script>
 
 <style scoped>
+.title {
+  margin-bottom: 25px;
+}
 .aboutus {
   max-width: 550px; /* Or any other suitable width */
   margin: 0 auto; /* Center the description */
@@ -148,8 +151,9 @@ export default {
 }
 h3 {
   color: #333;
+  display: flex;
   font-size: 1.6rem;
-  margin-bottom: 20px; /* Spacing below the title */
+  margin-bottom: 10px; /* Spacing below the title */
 }
 p {
   color: #555;
@@ -165,12 +169,13 @@ li {
 .vibe-title {
   color: #333;
   font-size: 1.6rem;
-  margin-bottom: 20px; /* Spacing below the title */
+  margin-bottom: 10px; /* Spacing below the title */
 }
 
 .vibe-title-para {
   max-width: 540px;
   text-align: justify;
+  margin-top: 0px;
 }
 
 .vibe-questions {
@@ -204,6 +209,7 @@ li {
   line-height: 1.3;
   max-width: 540px;
   text-align: justify;
+  margin-top: 0px;
 }
 .container {
   background-color: #ebf5fb; /* Light blue background */
@@ -226,6 +232,7 @@ h1 {
 .name {
   font-weight: bold;
   color: #0056b3;
+  margin-bottom: 30px;
 }
 
 .description {
