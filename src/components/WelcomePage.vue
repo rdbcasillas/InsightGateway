@@ -212,7 +212,7 @@ li {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: 5vh;
+  padding: 1vh;
   text-align: center;
 }
 
