@@ -33,8 +33,9 @@
             even a valid pursuit?
           </li>
           <li>
-            How can we better navigate this sense of overwhelm in this deeply
-            connected world that is constantly craving for our attention?
+            How can we effectively address this sense of overwhelm in a
+            superficially connected world that is constantly craving our
+            attention?
           </li>
           <li>
             Are there underlying hidden patterns behind most of the world's
@@ -59,7 +60,7 @@
             public discourse in today's attention economy?
           </li>
           <li>
-            Are there more compassionate and non zero-sum techniques of
+            Are there more compassionate and non-zero-sum techniques of
             cooperation and coordination for solving societal problems?
           </li>
         </ul>

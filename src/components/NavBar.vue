@@ -48,4 +48,20 @@ export default {
   width: 60px;
   height: auto;
 }
+@media (max-width: 768px) {
+  /* Adjust for mobile phones */
+
+  .resize-logo {
+    width: 40px;
+    height: 40px;
+  }
+}
+@media (max-width: 480px) {
+  /* Adjust for mobile phones */
+
+  .resize-logo {
+    width: 30px;
+    height: 30px;
+  }
+}
 </style>
