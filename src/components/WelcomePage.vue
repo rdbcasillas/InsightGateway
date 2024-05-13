@@ -24,34 +24,45 @@
       <div class="col-md-6 col-sm-12 offset-md-4">
         <h3 class="vibe-title">The Vibe</h3>
         <p class="ml-auto vibe-title-para">
-          Here are some questions that the Third Space is interested in
-          exploring:
+          Third Space is where every vibe under the sun spins. It's a container
+          where every emotion finds its place. No question is stupid and no
+          inquiry is irrelevant. Here are a few questions that we are currently
+          excited about exploring:
         </p>
         <ul class="vibe-questions">
           <li>
-            Why is everything feeling meaningless a.k.a The Meaning Crisis?
+            How do we find meaning in this seemingly meaningless world? Is that
+            even a valid pursuit?
           </li>
           <li>
-            Are there underlying patterns behind most of the world's crises?
+            How can we better navigate this sense of overwhelm in this deeply
+            connected world that is constantly craving for our attention?
           </li>
           <li>
-            How can we make better sense of our own subjective experience?
+            Are there underlying hidden patterns behind most of the world's
+            crises? How can we study and address those?
           </li>
           <li>
             What are some reliable methods to avoid cognitive traps that humans
-            are prone to?
+            are prone to? And what heuristics can we learn to improve the
+            quality of our thinking?
           </li>
           <li>
-            Can we systematically acquire outlooks that fundamentally change how
-            we view ourselves and others around us?
+            What outlooks and practices can fundamentally change how we relate
+            to ourselves and others around us?
           </li>
           <li>
-            What is agency? How did we lose it and how can we get it back?
+            How can we acquire more agency to make progress on our goals? Does
+            the goal focused approach to life ends up creating more suffering
+            overall?
+          </li>
+          <li>
+            How can we create a healthy information ecosystem and improve the
+            public discourse in today's attention economy?
           </li>
           <li>
             Are there more compassionate and non zero-sum techniques of
-            cooperation and coordination to solve problems in the society more
-            effectively?
+            cooperation and coordination for solving societal problems?
           </li>
         </ul>
       </div>
@@ -158,7 +169,8 @@ li {
 }
 
 .vibe-title-para {
-  max-width: 800px;
+  max-width: 540px;
+  text-align: justify;
 }
 
 .vibe-questions {
@@ -190,7 +202,7 @@ li {
   color: #555;
   font-size: 1.2rem;
   line-height: 1.3;
-  max-width: 600px;
+  max-width: 540px;
   text-align: justify;
 }
 .container {

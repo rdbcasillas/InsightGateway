@@ -1,11 +1,12 @@
 <template>
   <nav class="navbar">
     <div class="logo">
-      <img class="resize-logo" src="/postratlogo.png" alt="" />
+      <a href="/">
+        <img class="resize-logo" src="/ratdojo2.png" alt="" />
+      </a>
     </div>
     <div class="nav-links">
-      <a href="/about">About</a>
-      <a href="/resources">Resources</a>
+      <h4><a href="/resources">Resources</a></h4>
     </div>
   </nav>
 </template>
@@ -33,6 +34,7 @@ export default {
 
 .nav-links a {
   margin-left: 20px;
+  margin-right: 20px;
   color: #333;
   text-decoration: none;
   transition: color 0.3s ease;
@@ -42,7 +44,7 @@ export default {
   color: #0056b3;
 }
 .resize-logo {
-  width: 50px;
+  width: 70px;
   height: auto;
 }
 </style>
