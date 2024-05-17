@@ -150,7 +150,7 @@ export default {
 }
 h3 {
   color: #0056b3;
-  font-family: math;
+  font-family: fantasy;
   display: flex;
   font-size: 1.6rem;
   font-weight: bolder;
