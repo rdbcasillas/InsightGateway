@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row title">
       <div class="col-12 text-center mb-4">
-        <h1><span class="name">The Third Space</span></h1>
+        <h1><span class="name">The Portal</span></h1>
       </div>
     </div>
 
@@ -10,8 +10,8 @@
       <div class="col-md-6 col-sm-12 offset-md-4">
         <h3 class="mb-3 ml-auto">About Us</h3>
         <p class="aboutus text-center">
-          Third Space is a container for exploring the limits of our epistemic
-          and emotional growth. We conduct courses, workshops, seminars, and
+          Portal is a container for exploring the limits of our epistemic and
+          emotional growth. We conduct courses, workshops, seminars, and
           activities that provide different frameworks for sense-making about
           ourselves, the world and our relationship to the world.
         </p>
@@ -22,10 +22,10 @@
       <div class="col-md-6 col-sm-12 offset-md-4">
         <h3 class="vibe-title mb-3">The Vibe</h3>
         <p class="ml-auto vibe-title-para">
-          Third Space is where every vibe under the sun spins. It's a container
-          where every emotion finds its place. No question is stupid and no
-          inquiry is irrelevant. Here are a few questions that we are currently
-          excited about exploring:
+          Portal is where every vibe under the sun spins. It's a container where
+          every emotion finds its place. No question is stupid and no inquiry is
+          irrelevant. Here are a few questions that we are currently excited
+          about exploring:
         </p>
         <ul class="vibe-questions">
           <li>
@@ -72,7 +72,7 @@
         <div class="row mt-4">
           <div class="col-md-8 col-sm-12 offset-md-2 text-center">
             <p class="update">
-              We are in the process of designing the Third Space. If you are
+              We are in the process of designing The Portal. If you are
               interested in tracking its growth, consider signing up for future
               updates.
             </p>

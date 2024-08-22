@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="logo">
       <a href="/">
-        <img class="resize-logo" src="/ratdojo2.png" alt="" />
+        <img class="resize-logo" src="/ratdojologo.png" alt="" />
       </a>
     </div>
     <!-- <div class="nav-links">
