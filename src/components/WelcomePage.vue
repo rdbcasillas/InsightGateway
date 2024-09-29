@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row title">
       <div class="col-12 text-center mb-4">
-        <h1><span class="name">The Portal</span></h1>
+        <h1><span class="name">Portal</span></h1>
       </div>
     </div>
 
